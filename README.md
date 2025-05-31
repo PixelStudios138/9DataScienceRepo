@@ -25,6 +25,9 @@ Scenario 2: A fitness app tracking steps
 2) It shows how active a person is per day
 3) The person could choose to increase or decrease the amount of steps they do per day
 
+### Part 3
+
+
 ### Part 5
 
 |Example                 |Source             |Why It's Collected                                                                                                 |Who Uses It                 |
@@ -36,3 +39,20 @@ Scenario 2: A fitness app tracking steps
 |Forecast                |Weather app        |To see if someone should stay inside because it's raining, or go outside because it's sunny                        |Public                      |
 |Cookies                 |Websites           |To remember a user's details, allowing for a more personalised experience                                          |Websites                    |
 |Age                     |Census             |To find things like the average age of an Australian, allowing for things more tailored to the population          |The Government              |
+
+
+### Part 6
+There are many benefits to analysing data. One major aspect is it can be used for predictions, like what the weather will be, when there'll be a natural disaster, or just for personalisation of apps. There isn't anything I didn't know was data, as I use a lot of data myself in my free time. If I could collect data in anything, it would be AI usage, as I'm curious as to who uses it and why.
+
+## Activities C
+### Part 1
+There are 15 columns in the dataset. Of them, 3 of the most prominent is the ID, City, and Event columns. The ID column shows the identification number of the athlete, the City column shows what city they're from, and the Event column shows what event they participated in. The first 5 rows show the athletes with the lowest ID numbers, along with things like height and weight, what games they participated in, and the events they participated in.
+
+### Part 2
+According to the code, there are 196,594 male athletes compared to only 74,522 female athletes. The top 5 sports are Athletics, Gymnastics, Swimming, Shooting, and Cycling (in that order).
+
+### Part 3
+The average age of an athlete is 25. The youngest was just 10 years old, and the oldest was 97. There are no columns with missing values, although the mean ID was 68,246, despite the fact that you can only get 1 ID.
+
+### Extension
+URS was used by the USSR (Soviet Union) from 1900-1912, GDR was used for the German Democratic Republic (East Germany) for a period of time after WWII, and FRG was used for the Federal Republic of Germany at the same time.
