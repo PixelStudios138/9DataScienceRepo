@@ -26,7 +26,7 @@ Scenario 2: A fitness app tracking steps
 3) The person could choose to increase or decrease the amount of steps they do per day
 
 ### Part 3
-
+![Dataflow Diagram of Youtube Analytics](/dataflow.png "Dataflow Diagram of Youtube Analytics")  
 
 ### Part 5
 
