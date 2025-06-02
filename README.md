@@ -1,5 +1,5 @@
 # 9DataScienceRepo
-Bonjour. This repository is going to contain all the work done in the data science topic in year 9 2025. Enjoy
+Bonjour. This repository is going to contain all the work done in the data science topic in year 9 2025. Enjoy. (Note that any work that is only code will not be shown here, the task is in the code)
 
 ## Activities A
 ### Part 1
@@ -56,3 +56,16 @@ The average age of an athlete is 25. The youngest was just 10 years old, and the
 
 ### Extension
 URS was used by the USSR (Soviet Union) from 1900-1912, GDR was used for the German Democratic Republic (East Germany) for a period of time after WWII, and FRG was used for the Federal Republic of Germany at the same time.
+
+### Reflection
+I learnt the different abbreviations for countries and things like the age range and averages. There is nothing I found challenging about pandas, and I would love to look at analysing music data next.
+
+## Filtering, Sorting, and Grouping
+### Part 1
+These filters give results for a particular category, such as only female athletes, or only athletes older than 35. The `.head()` function returns the first 5 rows. 
+
+### Part 4
+Athletics had the most female athletes, with 11666 athletes participating in it
+
+### Reflection
+The easiest filtering techniques were the basic ones, filtering by one category. The most difficult one was when you tried to sort something by 2 or 3 categories, like men by height and weight. I was surprised how many child athletes there were, I was only expecting 100 or 200 at most, by there were many more. This kind of analysis could help answering questions about what country is the greatest of them all (at least sports wise).
