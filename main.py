@@ -1,6 +1,7 @@
 import pandas as pd
 
 df = pd.read_csv("athlete_events.csv")
+"""
 print(df.head())
 print(df.columns)
 
@@ -83,3 +84,21 @@ kids.to_csv('child_athletes.csv', index=False)
 # Filter gold medalists and save to new CSV
 gold_medalists = df[df['Medal'] == 'Gold']
 gold_medalists.to_csv('gold_medal_athletes.csv', index=False)
+"""
+# Count missing values in each column
+print(df.isnull().sum())
+
+# Drop rows missing both height and weight
+df_cleaned = df.dropna(subset=['Height', 'Weight'])
+print(df_cleaned.shape)
+
+# Fill missing medals with 'None'
+df_cleaned['Medal'] = df_cleaned['Medal'].fillna('None')
+
+# Fill missing ages with average age
+avg_age = df_cleaned['Age'].mean()
+df_cleaned['Age'] = df_cleaned['Age'].fillna(avg_age)
+
+avg_weight = df_cleaned['Weight'].mean()
+df_cleaned['Weight'] = df_cleaned['Weight'].fillna(avg_weight)
+df_cleaned.to_csv('replacedmean.csv', index=False)
