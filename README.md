@@ -69,3 +69,10 @@ Athletics had the most female athletes, with 11666 athletes participating in it
 
 ### Reflection
 The easiest filtering techniques were the basic ones, filtering by one category. The most difficult one was when you tried to sort something by 2 or 3 categories, like men by height and weight. I was surprised how many child athletes there were, I was only expecting 100 or 200 at most, by there were many more. This kind of analysis could help answering questions about what country is the greatest of them all (at least sports wise).
+
+## Week 3 Part 2
+### Referencing Parent and Sub-Directories
+For this, I created 3 throwaway CSV files, `innie.csv`, `outtie.csv`, and `innie2.csv`. The purpose of these was to grab data from files outside of the directory, such as in the main while the script was in a folder, or from a file in a completely different folder that's in the same directory as the folder that contains the main script. The script I used, `script.py`, was housed in the `Week 3` folder with `innie.csv`, `outtie.csv` was in the main folder, and `innie2.csv` was in a different folder called `Week 2` (Note that the Week 2 folder does not contain any scripts/files from Activities B or C, it is just a placeholder name to use when pulling files from other folders). 
+
+### Internal Data & Importing/Exporting Data Files
+Internal data is useful, as when used in an app (for example), it can draw data from the app, then export it as a `.csv` file that can be viewed by humans, which can also be imported into other programs to manipulate that data and make predictions with it. 
