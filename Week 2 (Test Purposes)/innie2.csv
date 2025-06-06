@@ -1,50 +1,6 @@
-ID,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,Season,City,Sport,Event,Medal
-26,Agnes Erika Aanonsen (-Eyde),F,17.0,169.0,65.0,Norway,NOR,1984 Winter,1984,Winter,Sarajevo,Luge,Luge Women's Singles,
-97,Carlos Alberto Abaunza,M,16.0,180.0,70.0,Nicaragua,NCA,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's High Jump,
-137,Giordano Giulio Abbondati,M,15.0,175.0,64.0,Italy,ITA,1964 Winter,1964,Winter,Innsbruck,Figure Skating,Figure Skating Men's Singles,
-159,Reem Wa'il Abdalazem Abdalazem El-Bossaty,F,15.0,167.0,60.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet,
-159,Reem Wa'il Abdalazem Abdalazem El-Bossaty,F,15.0,167.0,60.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,
-211,Sameh Abdel Rahman,M,16.0,,,United Arab Republic,UAR,1960 Summer,1960,Summer,Roma,Fencing,"Fencing Men's Foil, Team",
-233,Aziza Abdelfattah,F,17.0,159.0,51.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,
-258,Hamza Abdo,M,17.0,,,Palestine,PLE,2008 Summer,2008,Summer,Beijing,Swimming,Swimming Men's 50 metres Freestyle,
-273,Maizurah Abdul Rahim,F,17.0,147.0,50.0,Brunei,BRU,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's 200 metres,
-288,Masoud Abdul Khamis Al-Rahman,M,17.0,176.0,68.0,Qatar,QAT,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 4 x 400 metres Relay,
-289,Abdul Haji Abdul Latheef,M,17.0,168.0,54.0,Maldives,MDV,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's Marathon,
-290,Fatima Abdul Majeed Hameed Al-Kirashi,F,14.0,,,Bahrain,BRN,2000 Summer,2000,Summer,Sydney,Swimming,Swimming Women's 50 metres Freestyle,
-342,Abdullah Abdulrahman Zeyab,M,16.0,177.0,,Kuwait,KUW,1972 Summer,1972,Summer,Munich,Swimming,Swimming Men's 100 metres Freestyle,
-343,Abir Abdulrahman Khalil Mahmoud Khalil,F,16.0,162.0,72.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Weightlifting,Weightlifting Women's Light-Heavyweight,
-346,Shaza Yahia Nazih Abdulrahman El-Sayed,F,15.0,170.0,59.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team,
-395,Jennifer Abel,F,16.0,160.0,62.0,Canada,CAN,2008 Summer,2008,Summer,Beijing,Diving,Diving Women's Springboard,
-404,"Louis Grenville ""Lou"" Abell",M,15.0,,,Vesper Boat Club,USA,1900 Summer,1900,Summer,Paris,Rowing,Rowing Men's Coxed Eights,Gold
-417,Sara Helena berg,F,17.0,190.0,73.0,Sweden,SWE,1988 Summer,1988,Summer,Seoul,Swimming,Swimming Women's 50 metres Freestyle,
-424,Moira Abernethy (-Ford),F,17.0,,,South Africa,RSA,1956 Summer,1956,Summer,Melbourne,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze
-424,Moira Abernethy (-Ford),F,17.0,,,South Africa,RSA,1956 Summer,1956,Summer,Melbourne,Swimming,Swimming Women's 100 metres Backstroke,
-459,Bukola Dammy Abogunloko,F,17.0,170.0,53.0,Nigeria,NGR,2012 Summer,2012,Summer,London,Athletics,Athletics Women's 4 x 400 metres Relay,
-463,Agnese boltia,F,17.0,166.0,60.0,Latvia,LAT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Super G,
-463,Agnese boltia,F,17.0,166.0,60.0,Latvia,LAT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Giant Slalom,
-463,Agnese boltia,F,17.0,166.0,60.0,Latvia,LAT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Slalom,
-509,Gary Abraham,M,17.0,175.0,64.0,Great Britain,GBR,1976 Summer,1976,Summer,Montreal,Swimming,Swimming Men's 100 metres Backstroke,
-509,Gary Abraham,M,17.0,175.0,64.0,Great Britain,GBR,1976 Summer,1976,Summer,Montreal,Swimming,Swimming Men's 4 x 100 metres Medley Relay,
-532,Iason Abramashvili,M,17.0,176.0,82.0,Georgia,GEO,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Giant Slalom,
-532,Iason Abramashvili,M,17.0,176.0,82.0,Georgia,GEO,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Slalom,
-534,Oleksandr Volodymyrovych Abramenko,M,17.0,180.0,82.0,Ukraine,UKR,2006 Winter,2006,Winter,Torino,Freestyle Skiing,Freestyle Skiing Men's Aerials,
-537,Ek'aterina Abramia,F,16.0,167.0,43.0,Georgia,GEO,1996 Summer,1996,Summer,Atlanta,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,
-559,Tsvetelina Abrasheva,F,16.0,,,Bulgaria,BUL,1994 Winter,1994,Winter,Lillehammer,Figure Skating,Figure Skating Women's Singles,
-572,Rui Pinto de Abreu,M,15.0,177.0,64.0,Portugal,POR,1976 Summer,1976,Summer,Montreal,Swimming,Swimming Men's 400 metres Freestyle,
-572,Rui Pinto de Abreu,M,15.0,177.0,64.0,Portugal,POR,1976 Summer,1976,Summer,Montreal,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,
-598,Omar Abu-Fares,M,16.0,178.0,69.0,Jordan,JOR,2000 Summer,2000,Summer,Sydney,Swimming,Swimming Men's 200 metres Individual Medley,
-604,"Folashade ""Shade"" Abugan",F,17.0,150.0,64.0,Nigeria,NGR,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Women's 400 metres,
-604,"Folashade ""Shade"" Abugan",F,17.0,150.0,64.0,Nigeria,NGR,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Women's 4 x 400 metres Relay,
-621,Anas Sameer N. H. Abuyousuf,M,14.0,181.0,77.0,Qatar,QAT,2004 Summer,2004,Summer,Athina,Swimming,Swimming Men's 400 metres Freestyle,
-627,Andreea Roxana Acatrinei,F,16.0,150.0,40.0,Romania,ROU,2008 Summer,2008,Summer,Beijing,Gymnastics,Gymnastics Women's Individual All-Around,
-627,Andreea Roxana Acatrinei,F,16.0,150.0,40.0,Romania,ROU,2008 Summer,2008,Summer,Beijing,Gymnastics,Gymnastics Women's Team All-Around,Bronze
-627,Andreea Roxana Acatrinei,F,16.0,150.0,40.0,Romania,ROU,2008 Summer,2008,Summer,Beijing,Gymnastics,Gymnastics Women's Floor Exercise,
-627,Andreea Roxana Acatrinei,F,16.0,150.0,40.0,Romania,ROU,2008 Summer,2008,Summer,Beijing,Gymnastics,Gymnastics Women's Balance Beam,
-640,Carmen Acedo Jorge,F,17.0,,,Spain,ESP,1992 Summer,1992,Summer,Barcelona,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,
-671,Ghassan Achi,M,16.0,168.0,60.0,Lebanon,LIB,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Giant Slalom,
-671,Ghassan Achi,M,16.0,168.0,60.0,Lebanon,LIB,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Slalom,
-685,Dallal Merwa Achour,F,17.0,176.0,45.0,Algeria,ALG,2012 Summer,2012,Summer,London,Volleyball,Volleyball Women's Volleyball,
-725,Roslandy del Valle Acosta Alvarado,F,16.0,190.0,62.0,Venezuela,VEN,2008 Summer,2008,Summer,Beijing,Volleyball,Volleyball Women's Volleyball,
-733,Ilona cs (-Zimmermann),F,16.0,,,Hungary,HUN,1936 Summer,1936,Summer,Berlin,Swimming,Swimming Women's 100 metres Freestyle,
-733,Ilona cs (-Zimmermann),F,16.0,,,Hungary,HUN,1936 Summer,1936,Summer,Berlin,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,
-765,Jean-Paul Adam,M,15.0,,,Seychelles,SEY,1992 Summer,1992,Summer,Barcelona,Swimming,Swimming Men's 200 metres Freestyle,
+ID,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,Season,City,Sport,Event
+26,Agnes Erika Aanonsen (-Eyde),F,17.0,169.0,65.0,Norway,NOR,1984 Winter,1984,Winter,Sarajevo,Luge,Luge Women's Singles
+97,Carlos Alberto Abaunza,M,16.0,180.0,70.0,Nicaragua,NCA,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's High Jump
+137,Giordano Giulio Abbondati,M,15.0,175.0,64.0,Italy,ITA,1964 Winter,1964,Winter,Innsbruck,Figure Skating,Figure Skating Men's Singles
+159,Reem Wa'il Abdalazem Abdalazem El-Bossaty,F,15.0,167.0,60.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Synchronized Swimming,Synchronized Swimming Women's Duet
+159,Reem Wa'il Abdalazem Abdalazem El-Bossaty,F,15.0,167.0,60.0,Egypt,EGY,2008 Summer,2008,Summer,Beijing,Synchronized Swimming,Synchronized Swimming Women's Team
