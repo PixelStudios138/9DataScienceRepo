@@ -25,3 +25,5 @@ def main():
 
     # Display the loaded DataFrame
     print(df_loaded)
+
+main()
