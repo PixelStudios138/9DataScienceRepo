@@ -76,3 +76,19 @@ For this, I created 3 throwaway CSV files, `innie.csv`, `outtie.csv`, and `innie
 
 ### Internal Data & Importing/Exporting Data Files
 Internal data is useful, as when used in an app (for example), it can draw data from the app, then export it as a `.csv` file that can be viewed by humans, which can also be imported into other programs to manipulate that data and make predictions with it. 
+
+## Week 4
+### Part 1
+The 3 columns with the most missing data is Medal, Height, and Weight. This happens in real-world Olympic data, as not everyone wins medals, and Height and Weight can either not be recorded, or be lost to time, as they are from previous Olympics that have no remaining records.
+
+### Part 2
+The code removed 206,853 rows from the dataset. The pros of dropping data is that it helps when you have to use the average of a dataset, and the missing values mess with the result, but the cons are that you miss data that could affect any data trying to be pulled from it, like for the dataset being used, it could ruin a dataset based on which country had the most gold medals.
+
+### Part 3
+Using `.median()` instead of `.mean()` means that the data will be replaced with the middle value, not the average.
+
+### Part 5
+Cleaning did improve the datset, as there were no inconistent or missing values. Questions on who has the youngest athletes or most gold medals can be answered more accurately.
+
+### Reflection
+The dirtiest column was medals, as a lot of athletes did not win anything. The best time to drop data was if there was no saving it, like when age or medals was missing, but height and weight were good ones to fix. Data  cleaning is very important, as it allows accurate predictions for things that need it, for example the weather.
