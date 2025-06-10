@@ -84,10 +84,10 @@ kids.to_csv('child_athletes.csv', index=False)
 # Filter gold medalists and save to new CSV
 gold_medalists = df[df['Medal'] == 'Gold']
 gold_medalists.to_csv('gold_medal_athletes.csv', index=False)
-"""
+
 # Count missing values in each column
 print(df.isnull().sum())
-
+"""
 # Drop rows missing both height and weight
 df_cleaned = df.dropna(subset=['Height', 'Weight'])
 print(df_cleaned.shape)
@@ -99,6 +99,19 @@ df_cleaned['Medal'] = df_cleaned['Medal'].fillna('None')
 avg_age = df_cleaned['Age'].mean()
 df_cleaned['Age'] = df_cleaned['Age'].fillna(avg_age)
 
-avg_weight = df_cleaned['Weight'].mean()
+# Fill missing weights with median weights
+avg_weight = df_cleaned['Weight'].median()
 df_cleaned['Weight'] = df_cleaned['Weight'].fillna(avg_weight)
-df_cleaned.to_csv('replacedmean.csv', index=False)
+
+# Unique values in 'Sex' and 'Medal'
+print(df_cleaned['Sex'].unique())
+print(df_cleaned['Medal'].unique())
+
+# Check again for missing values
+print(df_cleaned.isnull().sum())
+
+# Get stats after cleaning
+print(df_cleaned.describe())
+
+# Save your cleaned version
+df_cleaned.to_csv("athlete_events_cleaned.csv", index=False)
