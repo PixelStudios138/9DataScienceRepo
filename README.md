@@ -86,3 +86,9 @@ The code removed 206,853 rows from the dataset. The pros of dropping data is tha
 
 ### Part 3
 Using `.median()` instead of `.mean()` means that the data will be replaced with the middle value, not the average.
+
+### Part 5
+Cleaning did improve the datset, as there were no inconistent or missing values. Questions on who has the youngest athletes or most gold medals can be answered more accurately.
+
+### Reflection
+The dirtiest column was medals, as a lot of athletes did not win anything. The best time to drop data was if there was no saving it, like when age or medals was missing, but height and weight were good ones to fix. Data  cleaning is very important, as it allows accurate predictions for things that need it, for example the weather.
