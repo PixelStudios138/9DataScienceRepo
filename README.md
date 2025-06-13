@@ -92,3 +92,16 @@ Cleaning did improve the datset, as there were no inconistent or missing values.
 
 ### Reflection
 The dirtiest column was medals, as a lot of athletes did not win anything. The best time to drop data was if there was no saving it, like when age or medals was missing, but height and weight were good ones to fix. Data  cleaning is very important, as it allows accurate predictions for things that need it, for example the weather.
+
+## Week 5
+### Part 3
+The chart doesn't really show a major trend, as it kept fluctuating, but it has mostly gone up, ecept for small periods around the 30s and 80s when it significantly dropped. It suggests changes in athlete demographcs, as older athletes are more common these days compared to 50 years ago.
+
+### Part 4
+Changing `bins=30` to `bins=10` grouped athletes of similar weights into less categories, going from 30 to 10 groups. It has a positive skew.
+
+### Part 5
+33.7% of medals are gold, 32.7% are silver, and 33.6% are bronze. 
+
+### Reflection
+The bar and pie charts were the easiest to understand, as the layout was simple and easy to read. The histogram was probably the hardest, as the words/numbers got crowded and it foften wasn't precise enough when fluctuating. Visualising data can help making decisions easier, as it's simpler to find the larger values and identify the outliers, and you can see the shape of the data.
